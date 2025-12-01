@@ -10,3 +10,4 @@ langchain
 openai
 langchain-google-genai
 wikipedia
+langchain-text-splitters
